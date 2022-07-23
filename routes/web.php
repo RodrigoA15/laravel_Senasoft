@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\RegistroController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
